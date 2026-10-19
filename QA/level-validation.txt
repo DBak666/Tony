@@ -1,0 +1,1 @@
+PASS: 997 levels; 49634 valid moves; segment occupancy; blocked move; dependency removal; duplicate removal; invalid data rejection.

@@ -1,0 +1,10 @@
+PASS (visible Windows player, 2026-10-09):
+- Home, original activity card artwork and Chinese text render correctly.
+- Level picker displays and opens original tutorial level.
+- Hint highlights a clear arrow; real mouse click reduces remaining 54 -> 53.
+- Three real mouse clicks on a blocked arrow remove three life drops and display loss.
+- All four tutorial arrows can be clicked and removed, producing win UI.
+- Rounded panel/button slicing and minus icon aspect ratio corrected after inspection.
+- Captures home.png, level-005.png, level-picker.png, lose.png and win.png are visible-window evidence.
+Original Android game interaction remains blocked by its notification-permission dialog.
+PASS final build: tutorial arrowhead size visually checked on level 2 (level-002-final.png).

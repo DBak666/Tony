@@ -1,0 +1,1 @@
+PASS: solid per-arrow mesh colors; dark background; actual next/previous button callbacks; direct entry; save; reset; busy rejection; first/last bounds; GM input panel.

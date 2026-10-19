@@ -1,0 +1,1 @@
+PASS: home/game/win/loss state flow; valid move; blocked move; life decrement; save/resume; tutorial completion. Screenshots require separate visual inspection.

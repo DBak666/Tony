@@ -1,0 +1,16 @@
+{
+  "package": "com.oakever.arrows",
+  "versionName": "1.33.0",
+  "versionCode": 73,
+  "sourceUnity": "6000.3.16f1",
+  "targetUnity": "2022.3.62f2",
+  "apkSha256": "bdc1f9e1bac575174dc53e8b304c26074f9fe365a62dd15aef7ee35d0a13bbbb",
+  "bundleRecords": 351,
+  "levelPackTextAssets": 21204,
+  "extractedTextAssets": 21871,
+  "selectedLevels": 997,
+  "exportedSprites": 356,
+  "ordering": "GuideLevels1 then AllLevel, deduplicated",
+  "extractionLibrary": "UnityPy 1.25.3",
+  "sourceAPK": "../AmazeGO_Analysis/base.apk"
+}

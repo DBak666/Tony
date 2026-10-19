@@ -1,0 +1,1 @@
+PASS: all three card callbacks; independent main/activity saves; daily completion/reward deduplication/date bounds/resume; shark five-stage chain/failure/reset/reward deduplication/day rollover; league unique scoring/weekly rollover/promotion/no duplicate settlement; GM exit; theme resume; font glyphs. Original saves restored.
